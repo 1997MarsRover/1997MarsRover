@@ -7,5 +7,5 @@ My work focuses on AI research, building practical tools, and sharing knowledge 
 
 #### Links
 - Blog: [Scroll](https://anthonymarugu.com/blog)
-- Site: [anthonymarugu.com](anthonymarugu.com)
+- Site: [anthonymarugu.com](https://anthonymarugu.com)
 - X(formerly twitter): [@AnthonyMarugu](https://x.com/AnthonyMarugu)
