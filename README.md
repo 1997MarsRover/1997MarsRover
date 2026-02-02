@@ -6,6 +6,6 @@ I'm an AI research engineer specializing in large language models (LLMs), deep l
 My work focuses on AI research, building practical tools, and sharing knowledge through Re-books and open-source contributions.
 
 #### Links
-- Blog: [Scroll](anthonymarugu.com/blog)
+- Blog: [Scroll](https://anthonymarugu.com/blog)
 - Site: [anthonymarugu.com](anthonymarugu.com)
 - X(formerly twitter): [@AnthonyMarugu](https://x.com/AnthonyMarugu)
