@@ -5,6 +5,8 @@ I'm an AI research engineer specializing in large language models (LLMs), deep l
 <hr>
 My work focuses on AI research, building practical tools, and sharing knowledge through Re-books and open-source contributions.
 
+- Motion-S -  A hierarchical Text-Sign Motion Generation using Mask and Residual Transformers.
+- Recon - Maxxing Knowledge Distillation from Large Language Model Information Manifolds
 #### Links
 - Blog: [Scroll](https://anthonymarugu.com/blog)
 - Site: [anthonymarugu.com](https://anthonymarugu.com)
