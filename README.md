@@ -8,6 +8,6 @@ My work focuses on AI research, building practical tools, and sharing knowledge 
 - Motion-S -  A hierarchical Text-Sign Motion Generation using Mask and Residual Transformers.
 - Recon - Maxxing Knowledge Distillation from Large Language Model Information Manifolds
 #### Links
-- Blog: [Scroll](https://anthonymarugu.com/blog)
+- Blog: [Scroll](https://recon.openlearnlm.com/blog/welcome)
 - Site: [anthonymarugu.com](https://anthonymarugu.com)
 - X(formerly twitter): [@AnthonyMarugu](https://x.com/AnthonyMarugu)
