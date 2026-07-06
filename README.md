@@ -11,3 +11,4 @@ My work focuses on AI research, building practical tools, and sharing knowledge 
 - Blog: [Scroll](https://recon.openlearnlm.com/blog/welcome)
 - Site: [anthonymarugu.com](https://anthonymarugu.com)
 - X(formerly twitter): [@AnthonyMarugu](https://x.com/AnthonyMarugu)
+- Mini Gaumont Photography: [Mini-Gaumont](https://minigaumont.anthonymarugu.com)
