@@ -5,9 +5,11 @@ I'm an research engineer specializing in multimodal intelligence and open-source
 <hr>
 My work focuses on AI research, building practical tools, and sharing knowledge through Re-books and open-source contributions.
 
+- JDSL-py -  small Python runtime for behavior-tree agents
 - Motion-S -  A hierarchical Text-Sign Motion Generation using Mask and Residual Transformers.
 - Recon - Maxxing Knowledge Distillation from Large Language Model Information Manifolds
 #### Links
+- JDSL-py: [docs](https://cantor-industries.github.io/jdsl-py/)
 - Blog: [Scroll](https://recon.openlearnlm.com/blog/welcome)
 - Site: [anthonymarugu.com](https://anthonymarugu.com)
 - X(formerly twitter): [@AnthonyMarugu](https://x.com/AnthonyMarugu)
